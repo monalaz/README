@@ -48,24 +48,27 @@
 - **Explainability:** feature importance, SHAP-style insights, simple narratives for stakeholders  
 
 ---
-
 ## 🌟 Featured Projects
-> Replace the repo links and one-liners with your own projects.
 
-- **[project-eda-starter](https://github.com/USERNAME/project-eda-starter)** — Reproducible EDA template: profiling, data quality checks, and quick visuals. *Tags:* `EDA` `pandas` `notebooks`
-- **[ml-baseline-blueprint](https://github.com/USERNAME/ml-baseline-blueprint)** — Clean baseline → tuned model pipeline with metrics & model cards. *Tags:* `scikit-learn` `ML` `evaluation`
-- **[sql-analytics-notes](https://github.com/USERNAME/sql-analytics-notes)** — Practical SQL patterns for cohorts, churn, and funnels. *Tags:* `SQL` `MySQL` `analytics`
+- **[Risk Modeling & Scoring](https://github.com/monalaz/Risk_Modeling_Scoring)** — End-to-end credit risk scoring workflow: EDA, feature engineering, baseline models, and clear evaluation. *Tags:* `EDA` `pandas` `scikit-learn` `classification`
+- **[ARIMA Time Series Analysis](https://github.com/monalaz/ARIMA_Time_Series_Analysis)** — Time-series forecasting with stationarity checks, ACF/PACF, and ARIMA modeling. *Tags:* `time-series` `ARIMA` `numpy` `pandas`
+- **[IBM HR Attrition](https://github.com/monalaz/ibm_HR_Attrition)** — Predicting employee attrition with clean preprocessing and model comparison. *Tags:* `classification` `scikit-learn` `EDA` `analytics`
 
-<!-- Optional: visual repo cards (uncomment & replace REPO_NAME)
+<!-- Optional: visual repo cards (uncomment if you want the pinned cards) -->
+<!--
 <p align="left">
-  <a href="https://github.com/USERNAME/project-eda-starter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=project-eda-starter&theme=tokyonight" />
+  <a href="https://github.com/monalaz/Risk_Modeling_Scoring">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=monalaz&repo=Risk_Modeling_Scoring&theme=tokyonight" />
   </a>
-  <a href="https://github.com/USERNAME/ml-baseline-blueprint">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=ml-baseline-blueprint&theme=tokyonight" />
+  <a href="https://github.com/monalaz/ARIMA_Time_Series_Analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=monalaz&repo=ARIMA_Time_Series_Analysis&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/monalaz/ibm_HR_Attrition">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=monalaz&repo=ibm_HR_Attrition&theme=tokyonight" />
   </a>
 </p>
 -->
+
 
 ---
 
